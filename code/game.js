@@ -232,7 +232,7 @@ Player.prototype.moveX = function(step, level, keys) {
 };
 
 var gravity = 35;
-var jumpSpeed = 17;
+var jumpSpeed = 18;
 var playerYSpeed = 6;
 
 Player.prototype.moveY = function(step, level, keys) {
